@@ -1100,5 +1100,13 @@
 #Subject: Abuse complaints
 #Status: Answered
 #AS132335 Infusion 360
-
 103.205.143.0/24
+
+#AS29302 5.63.144.0/21 Hosting Services Inc
+#BitNinja-protected servers 5.63.147.0/24
+5.63.147.0/21
+
+
+#AS16276 37.187.0.0/16	OVH SAS
+#BitNinja-protected servers 37.187.91.37/24
+37.187.0.0/16

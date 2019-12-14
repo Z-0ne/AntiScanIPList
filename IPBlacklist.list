@@ -1110,3 +1110,43 @@
 #AS16276 37.187.0.0/16	OVH SAS
 #BitNinja-protected servers 37.187.91.37/24
 37.187.0.0/16
+
+#Schadprogramm-Infektionen
+
+#CERT-Bund hat aus vertrauenswürdigen externen Quellen Informationen
+#Weitere Informationen zu dieser Benachrichtigung finden Sie unter:
+#<https://reports.cert-bund.de/schadprogramme>
+#
+#Diese E-Mail ist mittels PGP digital signiert.
+#Informationen zu dem verwendeten Schlüssel finden Sie unter:
+#<https://reports.cert-bund.de/digitale-signatur>
+#
+#Bitte beachten Sie:
+#Dies ist eine automatisch generierte Nachricht. Antworten an die
+#Absenderadresse <reports@reports.cert-bund.de> werden NICHT gelesen
+#und automatisch verworfen. Bei Rückfragen wenden Sie sich bitte
+#unter Beibehaltung der Ticketnummer [CB-Report#...] in der
+#Betreffzeile an <certbund@bsi.bund.de>.
+#
+#!! Bitte lesen Sie zunächst unsere HOWTOs und FAQ, welche unter
+#!! <https://reports.cert-bund.de/> verfügbar sind.
+#1&1 IONOS SE AS8560 87.106.190.0/24
+87.106.0.0/16	
+
+#Various Registries (Maintained by ARIN) AS1101	192.42.116.0/24
+192.42.116.0/22
+
+
+
+# NETIS Telecom Inc. AS25592
+# noc<noc@netis.ru>  NETIS Telecom<scanreport@netis.ru>
+
+81.24.176.0/20
+
+ 
+#no-reply<no-reply@cert.hr> AS2108 Croatian Academic and Research Network
+#CERT.hr - National CERT
+#Croatian Academic and Research Network - CARNET
+#www.cert.hr
+
+31.147.0.0/16
